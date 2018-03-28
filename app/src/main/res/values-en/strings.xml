@@ -2,8 +2,8 @@
 <resources>
     <string name="app_name">Estoque App</string>
     <string name="stringNomeProduto">Enter Product Name</string>
-    <string name="stringDataVencimentoProduto">Expiry:__/__/____</string>
+    <string name="stringDataVencimentoProduto">Expiry Date:__/__/____</string>
     <string name="stringBtnSalvarProduto">Save</string>
     <string name="textLabelNomeProduto">Product Name</string>
-    <string name="textLabelVencimentoProduto">Expity:</string>
+    <string name="textLabelVencimentoProduto">Expiry Date:</string>
 </resources>
