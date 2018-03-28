@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Estoque App</string>
+    <string name="stringNomeProduto">Digite o nome do produto.</string>
+    <string name="stringDataVencimentoProduto">Vencimento:__/__/____</string>
+    <string name="stringBtnSalvarProduto">Salvar</string>
+    <string name="textLabelNomeProduto">Nome do produto:</string>
+    <string name="textLabelVencimentoProduto">Vencimento:</string>
+</resources>
